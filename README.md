@@ -52,10 +52,12 @@ If the player presses escape on the keyboard, they pause the game and reach the 
 The shop is where the player can spend their goldfish to buy all the items to attract the cats. The player starts with 6 goldfish to spend however they want. Once they have purchased an item, it appears in the house and the cat that likes that item will move towards it.
 
 ![Screenshot of item and cat on top of it](https://cdn.discordapp.com/attachments/711654907517861898/782825533075488818/unknown.png)
+
 Once the cat reaches the item, they add more goldfish to the player's wallet as a gift. The player can then use these to purchase more items in the house and collect all the cats.
 
 ![Screenshot of the full house](https://cdn.discordapp.com/attachments/711654907517861898/782825831834714122/unknown.png)
-(And this is what the full house looks like!
+
+And this is what the full house looks like!
 
 ## Questions and Feedback from Professor & Classmates
 
