@@ -1,6 +1,6 @@
 # VRProject2
 ## Video
-(Video)
+[Video link](https://youtu.be/LOlXihWKn3g)
 
 ## Duties
 ### Audrey
