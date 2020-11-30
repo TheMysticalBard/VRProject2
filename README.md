@@ -79,3 +79,22 @@ A: We planned on using Google’s Playable Locations API. We did plan on having 
 
 
 ## Assets Links and Source Code
+[House](https://sketchfab.com/3d-models/house-be826fb24a1c4728b10ece36f73583ad)
+[Tea Table](https://sketchfab.com/3d-models/japanese-tea-table-c59fbfc80a7f4cc7b691934359eb4b9e)
+["Quiet Meows" Font](https://www.dafont.com/quiet-meows.font?text=Kitty+Collector&back=theme)
+[Sushi](https://sketchfab.com/3d-models/sushis-66b8917c39854fb5b01e54c7ad82d022)
+[Catpuccino](https://sketchfab.com/3d-models/catpuccino-f264bf3effb3443db45217225a5bab8f)
+[Plants](https://sketchfab.com/3d-models/plants-succulents-pack-3b7ba61c2db248ec9c075413a92e9319)
+[Cardboard Box](https://sketchfab.com/3d-models/cardboard-box-f43199f19c3142c68cc672db55d9a40d)
+[Kotatsu](https://sketchfab.com/3d-models/kotatsu-1e976c78d1eb4d2faa590316b0d38e24)
+[Burger](https://sketchfab.com/3d-models/cat-burger-5dbd2ad2c6dd4f109644d39cc4ec92f9)
+[Feather Toy](https://sketchfab.com/3d-models/feather-7d93f6d775394cebb8ac81f668234e20)
+[PokeBall Toy](https://sketchfab.com/3d-models/pokeball-9b6a97ead28041a48496dd1a57b2ea39#download)
+[Mouse Toy](https://sketchfab.com/3d-models/mouse-0af38fa8948a4df0ba7a7939c31eb204)
+[Dango](https://sketchfab.com/3d-models/dango-db1627c3cd4f4e08b3fb964db186dd20)
+[Fountain](https://sketchfab.com/3d-models/fish-fountain-c3dfb5c6825c4a8895583d8338c4f4e2)
+[Cat](https://sketchfab.com/3d-models/toon-cat-free-b2bd1ee7858444bda366110a2d960386)
+[SkyBox](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353)
+[Forest Assets](https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-forest-environment-free-demo-35361)
+[Basic Metal Texture Pack](https://assetstore.unity.com/packages/2d/textures-materials/metals/basic-metal-texture-pack-37402)
+[Audio: "OOP" by Onit](https://www.youtube.com/watch?v=LpUuPCn_GXY)
