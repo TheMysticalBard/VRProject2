@@ -35,7 +35,7 @@ When the game is started, players are presented with a menu. There's a settings 
 
 The settings are simple, mainly just a volume slider.
 
-![Screenshot of the starting location](https://cdn.discordapp.com/attachments/711654907517861898/782834242450096178/unknown.png)
+![Screenshot of the starting location](https://media.discordapp.net/attachments/711654907517861898/782834242450096178/unknown.png?width=1367&height=677)
 
 When players start, they are in a beautiful forested area looking towards the house where they will collect all of the items to attract the cats.
 
@@ -43,7 +43,7 @@ When players start, they are in a beautiful forested area looking towards the ho
 
 The cats all start in their own areas where they patrol around, waiting to be attracted to their different items.
 
-![Screenshot of pause menu](https://cdn.discordapp.com/attachments/711654907517861898/782824501473050624/unknown.png)
+![Screenshot of pause menu](https://media.discordapp.net/attachments/711654907517861898/782824501473050624/unknown.png?width=1375&height=677)
 
 If the player presses escape on the keyboard, they pause the game and reach the pause menu. From there, they can access the main menu, resume the game, or get to the shop.
 
